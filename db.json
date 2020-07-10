@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Название поста 1",
+      "description": "Пост 1",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "title": "Название поста 2",
+      "description": "Пост 2",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Название поста 3",
+      "description": "Пост 3",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "Название поста 4",
+      "description": "Пост 4",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "Название поста 5",
+      "description": "Пост 5 ",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2020-07-10T11:10:44.731Z",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "title": "Название поста 6 от",
+      "description": "Пост 6 ",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2020-07-10T11:10:44.731Z",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Название поста 7",
+      "description": "Пост 7",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Название поста 8",
+      "description": "Пост 8",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Название поста 9",
+      "description": "Пост 9",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Название поста 10",
+      "description": "Пост 10",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Название поста 11",
+      "description": "Пост 11",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Название поста 12",
+      "description": "Пост 12",
+      "claps": 12,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    }
+  ]
+}
